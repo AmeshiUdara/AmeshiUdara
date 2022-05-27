@@ -45,7 +45,7 @@ I'm Ameshi Udara, a software engineering final year undergraduate at University 
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/AmeshiUdara/AmeshiUdara/blob/main/My%20Resume/Ameshi%20Udara.pdf)
+- :paperclip: [My Resume/CV](https://github.com/AmeshiUdara/AmeshiUdara/blob/main/myResume/Ameshi%20Udara.pdf)
 - :email: ameshiudara98@gmail.com
 
 
