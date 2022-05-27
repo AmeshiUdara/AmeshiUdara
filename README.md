@@ -7,9 +7,11 @@ I'm Ameshi Udara, a software engineering final year undergraduate at University 
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently an undergraduate at the University of Bedfordshire. 
+- 🔭 Works as Associate Software Engineer Virtusa.
+- 🔭 Worked as Intern Software Engineer @ Mobitel(pvt) Ltd.
+- 🔭 Graduated from the University of Bedfordshire. 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for internship opportunities these days.
+<!-- - 🤔 I’m looking for internship opportunities these days. -->
 - 📫 How to reach me: ameshiudara98@gmail.com.
 - ⚡ Fun fact: I love to watch movies.
 
