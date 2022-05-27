@@ -1,13 +1,15 @@
 ## Hi I'm Ameshi Udara <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Ameshi Udara, a software engineering final year undergraduate at University of Bedfordshire. I Spend most of time coding outstanding projects. 
+Hello...
+I am Ameshi Udara Wickramasinghe...
+I am a newly graduated in the class of 2022. In my three years at SLIIT, I’ve completed the degree BSc(Hons) in Computer Science and Software Engineering at the University of Bedfordshire (Top-Up SLIIT) with First Class. Currently, I am working as Associate Software Engineer @ Virtusa.  I Spend most of time coding outstanding projects. 
 :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@AmeshiU-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@AmeshiU)](https://twitter.com/AmeshiU) [![Linkedin Badge](https://img.shields.io/badge/-@AmeshiUdara-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameshi-udara/) [![Mail Badge](https://img.shields.io/badge/-@AmeshiUdara-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ameshi_udara/) [![Mail Badge](https://img.shields.io/badge/-@AmeshiUdara-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ameshiudara98@gmail.com)
 
 <!-- TODO: Add last video link -->
 
-- 🔭 Works as Associate Software Engineer Virtusa.
+- 🔭 Works as Associate Software Engineer @ Virtusa.
 - 🔭 Worked as Intern Software Engineer @ Mobitel(pvt) Ltd.
 - 🔭 Graduated from the University of Bedfordshire. 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
